@@ -4,7 +4,7 @@
 
 
 
-# EXAMPLE
+# Example
 
 
 ```.NET
