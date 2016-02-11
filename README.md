@@ -6,7 +6,8 @@
 
 # EXAMPLE
 
-´´´.NET
+
+```.NET
 
 public static void Main()
 {
@@ -34,4 +35,4 @@ public static void Main()
 	Console.WriteLine(EmailValidator.IsValid("onur.tuzun@iyzico.")); // False
 }
 	
-´´´
+```
